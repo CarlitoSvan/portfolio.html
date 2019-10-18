@@ -37,6 +37,10 @@ body
         background: transparent linear-gradient(to bottom, rgba(13, 148, 238, 0) 50%,rgba(0,0,0,0.4) 75%,rgba(0,0,0,0.8) 100%) repeat scroll 0 0;
 
     }
+    .bgservice
+    {
+        background:rgb(75, 241, 219)
+    }
     a
     {
         background:0 0

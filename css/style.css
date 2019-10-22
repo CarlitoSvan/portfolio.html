@@ -161,12 +161,12 @@ Home sections
 /* --- section content general color --- */
 
 .color-light h1,.color-light h2,.color-light h3,.color-light h4,.color-light h5,.color-light h6 {
-	color: #fff;
+	color: rgb(208, 221, 30);
 }
 
 
 .color-light p {
-	color: #eee;
+	color: rgb(255, 255, 255);
 }
 
 
@@ -175,7 +175,7 @@ Spacer
 ============================= */
 
 #spacer1{	
-	background-image: url(../img/spacer/1.jpg);
+	background-image: url(/img/spacer/1.jpg);
 }
 #spacer2{	
 	background-image: url(../img/spacer/2.jpg);

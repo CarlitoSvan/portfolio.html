@@ -156,7 +156,13 @@ Home sections
 .bg-dark {
 	background: #575757;
 }
+.bgbox
+{
+	background: transparent - webkit-gradient(linear, left top, left bottom, color-stop(50%, rgba(255,255,255,0)),color-stop(75%, rgba(0, 0, 0, 0.4)),to(rgba(0,0,0,0.8))) 
+	repeat scroll 0 0;
+	background: transparent linear-gradient(to bottom, rgba(13, 148, 238, 0) 50%,rgba(0, 0, 0, 0.24) 75%,rgba(0, 0, 0, 0.185) 100%) repeat scroll 0 0; display:inline-block;
 
+}
 
 /* --- section content general color --- */
 
